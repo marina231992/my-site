@@ -190,6 +190,10 @@ body {
   object-fit: cover;
 }
 
+.img {
+	border-radius: 50%
+}
+
 .intro .container div {
   margin-left: 720px;
   margin-bottom: 56px;
